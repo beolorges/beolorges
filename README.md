@@ -3,17 +3,18 @@
 ### Hi there 👋
 ### I'm a brazilian student 
 
-<div>
-<githubStats>
-  ![beolorges's GitHub stats](https://github-readme-stats.vercel.app/api?username=beolorges&show_icons=true&theme=dracula&hide=stars,issues))
-  
-</githubStats>
-  
-![beolorges's GitHub stats](https://github-readme-stats.vercel.app/api?username=beolorges&show_icons=true&theme=dracula&hide=stars,issues))
 
-![Snake animation](https://github.com/beolorges/beolorges/blob/output/github-contribution-grid-snake.svg)
+ <!-- GITHUB STATS -->
+ <gitStats align="center">
+  <a href = "https://github.com/beolorges">
+    <img height ="150em"src = "https://github-readme-stats.vercel.app/api?username=beolorges&show_icons=true&theme=dracula&hide=stars,issues" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorFalco&layout=compact&langs_count=7&theme=dark" />
+  </a>
+ </gitStats>
 
-</div>
+
+  ![Snake animation](https://github.com/beolorges/beolorges/blob/output/github-contribution-grid-snake.svg)
+
 
 <!--
 **beolorges/beolorges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
