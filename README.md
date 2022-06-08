@@ -1,4 +1,4 @@
-> 👨🏻‍💻 Web Front-end Developer
+> 👨🏻‍💻 Web Full-Stack Developer Jr
 
 ### Hi there 👋
 
