@@ -1,8 +1,6 @@
 > 👨🏻‍💻 Web Front-end Developer
 
 ### Hi there 👋
-### I'm a brazilian student 
-
 
  <!-- GITHUB STATS -->
  <gitStats align="center" style="display: flex">
