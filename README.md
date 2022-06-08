@@ -8,7 +8,7 @@
  <gitStats align="center">
   <a href = "https://github.com/beolorges">
     <img height ="150em"src = "https://github-readme-stats.vercel.app/api?username=beolorges&show_icons=true&theme=dracula&hide=stars,issues" />
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorFalco&layout=compact&langs_count=7&theme=dark" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beolorges&show_icons=true&theme=dracula&hide=stars,issues" />
   </a>
  </gitStats>
 
