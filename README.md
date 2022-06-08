@@ -1,4 +1,8 @@
 ### Hi there 👋
+### I'm a brazilian student 
+
+![beolorges's GitHub stats](https://github-readme-stats.vercel.app/api?username=beolorges&show_icons=true&theme=dracula&hide=stars,issues))
+
 
 <!--
 **beolorges/beolorges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
