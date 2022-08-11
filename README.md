@@ -1,6 +1,13 @@
-> 👨🏻‍💻 Web Full-Stack Developer Jr
+> 👨🏻‍💻 Web Backend Developer Jr
 
 ### Hi there 👋
+
+I'm a tech and math passionate student at UFMG. Always trying to do my best.
+"If there is a problem you can't solve, then there is an easier problem you can solve: find it." - George Pólya.
+
+Up for work.
+Contact me at my email: beolorges@gmail.com
+
 
  <!-- GITHUB STATS -->
  <gitStats align="center" style="display: flex">
