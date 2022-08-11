@@ -6,7 +6,7 @@ I'm a tech and math passionate student at UFMG. Always trying to do my best.
 </br>
 "If there is a problem you can't solve, then there is an easier problem you can solve: find it." - George Pólya.
 </br>
-Up for work.
+Up to work.
 Contact me at my email: beolorges@gmail.com
 
 
