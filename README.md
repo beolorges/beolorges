@@ -1,4 +1,4 @@
-> 👨🏻‍💻 Web Backend Developer Jr
+> 👨🏻‍💻 Backend Developer
 
 ### Hi there 👋
 
